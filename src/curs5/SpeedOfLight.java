@@ -10,7 +10,7 @@ public class SpeedOfLight {
 	short days;
 	
 	public SpeedOfLight(int days) {
-		this.days = days;
+		this.days = (short) days;
 	}
 	
 	

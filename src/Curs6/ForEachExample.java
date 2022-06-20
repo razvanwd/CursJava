@@ -1,4 +1,4 @@
-package curs5curs6;
+package Curs6;
 
 public class ForEachExample {
 
@@ -7,7 +7,7 @@ public class ForEachExample {
 
 		int[] arrayNumbers = {10, 20, 30, 40 ,50};
 
-		for(int i= 0; i<arrayNumbers.length; i++); {
+		for(int i= 0; i<arrayNumbers.length; i++) {
 		
 		System.out.println("Clasic for : " + arrayNumbers[i]);
 	}

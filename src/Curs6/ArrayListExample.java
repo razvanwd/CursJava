@@ -1,4 +1,4 @@
-package curs5curs6;
+package Curs6;
 
 import java.util.ArrayList;
 import java.util.List;
